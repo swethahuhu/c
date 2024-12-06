@@ -1,4 +1,12 @@
 GGGG
 
 
+<<<<<<< HEAD
 kkkkkkkkkk
+=======
+
+
+
+
+BIET
+>>>>>>> h
