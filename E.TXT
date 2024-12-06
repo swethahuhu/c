@@ -5,5 +5,13 @@ GGGG
 kkkkkkkkkk
 =======
 
+<<<<<<< HEAD
 HELLO
 >>>>>>> d
+=======
+
+
+
+BIET
+>>>>>>> h
+>>>>>>> e63549ba8ff5ee36bf9c6b9a4aeffe5b0aab9adb
