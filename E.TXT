@@ -1,4 +1,9 @@
 GGGG
 
 
+<<<<<<< HEAD
 kkkkkkkkkk
+=======
+
+HELLO
+>>>>>>> d
